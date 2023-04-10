@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/OguzhanCnr" target="blank">
 Oğuzhan</a></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&duration=4000&pause=1000&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Computer+Engineering+Student;Oğuzhan+Çınar;">
