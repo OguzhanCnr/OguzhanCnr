@@ -15,7 +15,7 @@ Oğuzhan</a></h1>
 
 - 🌱 I'm currently Working on React Js and Asp.Net Core Web API
 
-- 🤝 I’m Computer Engineering.
+- 🤝 I’m Computer Engineer.
 
 - 📫 How to reach me **Ogzhn.Cnr@hotmail.com**
 
